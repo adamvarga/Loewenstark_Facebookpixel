@@ -1,0 +1,1 @@
+<?php class Loewenstark_Facebookpixel_Helper_Data extends Mage_Core_Helper_Abstract {    }

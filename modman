@@ -1,0 +1,6 @@
+src/app/code/community/Loewenstark/Facebookpixel                                    app/code/community/Loewenstark/Facebookpixel  
+src/app/etc/modules/Loewenstark_Facebookpixel.xml                                   app/etc/modules/Loewenstark_Facebookpixel.xml
+src/app/locale/de_DE/Loewenstark_Facebookpixel.csv                                  app/locale/de_DE/Loewenstark_Facebookpixel.csv
+src/app/design/frontend/base/default/layout/Loewenstark_Facebookpixel.xml           app/design/frontend/base/default/layout/Loewenstark_Facebookpixel.xml
+src/app/design/frontend/base/default/template/loewenstark/page/facebookpixel.phtml  app/design/frontend/base/default/template/loewenstark/page/facebookpixel.phtml
+

@@ -1,0 +1,1 @@
+<?xml version="1.0"?><layout>    <default>        <reference name="content">            <block type="core/template" name="facebook.pixelcode" template="loewenstark/page/facebookpixel.phtml" after="-" />        </reference>    </default></layout>
